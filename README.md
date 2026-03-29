@@ -22,10 +22,10 @@ Project ini adalah sistem CRUD sederhana untuk data mahasiswa menggunakan PHP Na
 ![Dashboard](dasboard.png)
 
 ### 📁 Data Dosen
-![Data](data dosen.png)
+![Data](datadosen.png)
 
 ### 📁 Data Jurusan
-![Data](data jurusan.png)
+![Data](datajurusan.png)
 
 ## ⚠️ Catatan
 Source code utama tidak ditampilkan pada repository ini.  
