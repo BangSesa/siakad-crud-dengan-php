@@ -29,7 +29,6 @@ Project ini adalah sistem CRUD sederhana untuk data mahasiswa menggunakan PHP Na
 
 ## ⚠️ Catatan
 Source code utama tidak ditampilkan pada repository ini.  
-Silakan gunakan link download jika ingin mencoba project secara lokal.
 
 ## 🚀 Teknologi
 - PHP Native
