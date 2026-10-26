@@ -10,7 +10,7 @@ Project ini adalah sistem CRUD sederhana untuk data mahasiswa menggunakan PHP Na
 - Upload File
 - Export PDF (dompdf)
 
-Demo    : https://siakad.gc.tc
+Demo    : https://siakad.gt.tc
 
 Download: https://bit.ly/4bSnD7L
 
